@@ -9,6 +9,9 @@
 
 Le logiciel que j'ai choisi pour ce projet est SoX, acronyme de SOund eXchange, un utilitaire en ligne de commande permettant des conversions de fichiers audio. En suivant les conseils du professeur et de son assistant, je vais me concentrer sur les effets ne se basant pas sur des librairie afin d'optimiser un d'entre eux. La version sur laquelle l'optimisation se portera est la version 14.4.2.
 
+Le liens du repo git hub est le suivant :
+[https://github.com/leonardfavre/HPC_project1](https://github.com/leonardfavre/HPC_project1)
+
 ### Procédure d'installation
 
 Le code source de notre logiciel peut se trouver à l'adresse suivante :
